@@ -16,10 +16,10 @@ import software.amazon.awssdk.services.appconfigdata.AppConfigDataClient;
 
 @Configuration
 public class AppConfig {
-    @Value("AKIAUSQLI4YPDUC3F5MR")
+    @Value("aaa")
     private String accessKeyId;
 
-    @Value("WScYlG1kwqdAxToTWZTD1l1yl+mr1SOGIZQ74P5v")
+    @Value("bbb")
     private String secretKey;
 
     @Value("us-east-1")
